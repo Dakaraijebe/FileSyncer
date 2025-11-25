@@ -1,0 +1,9 @@
+2025-11-24 20:40:37 [INFO] Starting FileSyncer...
+2025-11-24 20:40:37 [INFO] WorkerPool: started 3 workers.
+2025-11-24 20:40:37 [INFO] [CREATE] source\example.txt
+2025-11-24 20:40:37 [INFO] [COPY] source\example.txt → backup\example.txt
+2025-11-24 20:42:00 [INFO] [MODIFY] source\example.txt
+2025-11-24 20:42:00 [INFO] [COPY] source\example.txt → backup\example.txt
+2025-11-24 20:42:16 [INFO] Stopping FileSyncer...
+2025-11-24 20:42:16 [INFO] WorkerPool: all workers stopped.
+2025-11-24 20:42:16 [INFO] Shutdown complete.

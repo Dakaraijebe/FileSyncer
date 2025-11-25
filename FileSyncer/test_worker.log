@@ -1,0 +1,6 @@
+2025-11-24 10:35:40 [INFO] WorkerPool: started 2 workers.
+2025-11-24 10:35:40 [INFO] [COPY] test_src/example.txt → test_dst/example.txt
+2025-11-24 10:35:42 [INFO] WorkerPool: all workers stopped.
+2025-11-24 10:37:58 [INFO] WorkerPool: started 2 workers.
+2025-11-24 10:37:58 [INFO] [COPY] test_src/example.txt → test_dst/example.txt
+2025-11-24 10:38:00 [INFO] WorkerPool: all workers stopped.

@@ -1,0 +1,11 @@
+{
+    "source_folder": "source",
+    "target_folder": "backup",
+    "num_workers": 3,
+    "log_file": "sync.log",
+    "hash_verify": false,
+    "ignore_patterns": [
+        "*.tmp",
+        "*.log"
+    ]
+}
